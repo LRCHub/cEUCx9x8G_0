@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オール・ユー・ハッド・トゥ・ドゥ・ワズ・ステイ（テイラーズ・ヴァージョン）",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-12T04:04:14.002810Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All You Had To Do Was Stay",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_All_You_Had_To_Do_Was_Stay_Taylor_Swift.txt"
+    }
+  ]
+}
